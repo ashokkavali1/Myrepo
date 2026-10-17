@@ -1,3 +1,7 @@
 Hey file1
 I am ashok i am learning devops!
+<<<<<<< Updated upstream
 Adding data into file1 for third time!
+=======
+Adding data into file1 for fifth time!
+>>>>>>> Stashed changes
